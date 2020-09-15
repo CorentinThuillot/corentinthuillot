@@ -15,5 +15,5 @@
   <img
     width="49%"
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&layout=compact&theme=graywhite">
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinThuillot&langs_count=10&layout=compact&theme=graywhite">
 </a>
