@@ -10,5 +10,10 @@
   href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source (and thank Anurag Hazra later!)">
   <img
        width="49%"
+       height="165"
        src="https://github-readme-stats.vercel.app/api?username=CorentinThuillot&show_icons=true&theme=graywhite">
-  <img width="49%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&layout=compact&theme=graywhite"></a>
+  <img
+    width="49%"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&layout=compact&theme=graywhite">
+</a>
