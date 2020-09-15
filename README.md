@@ -7,16 +7,18 @@
 <hr>
 -->
 
-<a>
+<a href="https://github.com/CorentinThuillot?tab=repositories">
   <img
-       width="49%"
-       height="165"
+       width="100%"
        src="https://github-readme-stats.vercel.app/api?username=CorentinThuillot&show_icons=true&bg_color=30,D8E5EB,417D97&theme=graywhite">
+</a>
+
+<!-- if add, edit width = 49% and height limit = 165
   <img
     width="49%"
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinThuillot&langs_count=10&layout=compact&bg_color=30,D8E5EB,417D97&theme=graywhite">
-</a>
+-->
 
 <a href="https://github.com/CorentinThuillot/codecademy">
   <img
