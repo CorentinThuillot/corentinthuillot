@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://linkedin.com/in/corentinthuillot/">
+    <img src="https://rocketbike.org/wp-content/uploads/2019/03/Rocket-Bike-Alumni-Group-Cover-1024x534.jpg?sanitize=true">
+  </a>
+</div>
 
 <!--
 **CorentinThuillot/corentinthuillot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
