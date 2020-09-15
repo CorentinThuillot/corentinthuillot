@@ -10,7 +10,7 @@
 <a href="https://github.com/CorentinThuillot?tab=repositories">
   <img
        width="100%"
-       src="https://github-readme-stats.vercel.app/api?username=CorentinThuillot&show_icons=true&bg_color=30,D8E5EB,417D97&theme=graywhite">
+       src="https://github-readme-stats.vercel.app/api?username=CorentinThuillot&show_icons=true&include_all_commits=true&bg_color=30,D8E5EB,417D97&theme=graywhite">
 </a>
 
 <!-- if add, edit width = 49% and height limit = 165
