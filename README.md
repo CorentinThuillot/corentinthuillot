@@ -9,10 +9,7 @@
 <a
   href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source (and thank Anurag Hazra later!)">
   <img
-       width="50%"
-       height="200"
+       width="49%"
+       height="150"
        src="https://github-readme-stats.vercel.app/api?username=CorentinThuillot&show_icons=true&theme=graywhite">
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source (and thank Anurag Hazra later!)">
-  <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&layout=compact&theme=graywhite"></a>
+  <img width="49%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&layout=compact&theme=graywhite"></a>
