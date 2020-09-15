@@ -15,6 +15,13 @@
        src="https://github-readme-stats.vercel.app/api?username=CorentinThuillot&show_icons=true&bg_color=30,D8E5EB,417D97&theme=graywhite">
   <img
     width="49%"
-    height="165"
+    height="82.5"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinThuillot&langs_count=10&layout=compact&bg_color=30,D8E5EB,417D97&theme=graywhite">
+   <img
+    width="49%"
+    height="82.5"
+    src="hhttps://github-readme-stats.vercel.app/api/pin/?username=CorentinThuillot&repo=codecademy&bg_color=30,D8E5EB,417D97&theme=graywhite">
 </a>
+
+
+
